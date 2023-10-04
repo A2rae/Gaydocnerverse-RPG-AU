@@ -13,5 +13,6 @@ rubi: tank
 enemies r bad ai generated sonic ocs
 final boss is sonic oc ai thats also fps boosted by ai lol
 
-stats: hp, atk, def, speed
+combat stats: hp, atk, def, speed
+overworld stats: strength, speed, intell., charisma
 --
