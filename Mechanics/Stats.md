@@ -2,7 +2,7 @@
 > under construction
 
 do we need this? just delete if everyhting is obvious enough
-your STATS determine how strong you are, of course your STATS get stronger each time you level up.  some [ITEMS](characters/Items.md) can also boost certain stats when equiped
+your STATS determine how strong you are, of course your STATS get stronger each time you level up.  some [ITEMS](./Items.md) can also boost certain stats when equiped
 
 ### Overview
 **HP:** health points. hit 0 and that character dies(?)  
