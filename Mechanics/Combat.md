@@ -20,5 +20,17 @@ if the kB bar is 100% full, 60 MB is recieved
 `MB` is used as currency to buy and or upgrade items
 
 ---
-### Status Conditions
-AAAAAAAAAAAA
+## Effects
+### Status Effects
+|Name|Description|
+|:---|:---|
+|???|...|
+|???|...|
+|???|...|
+
+### Field Effects
+|Name|Description|
+|:---|:---|
+|???|...|
+|???|...|
+|???|...|
