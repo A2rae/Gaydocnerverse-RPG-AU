@@ -9,7 +9,7 @@ usually useful! each character can equip (number) item(s) on them
 |Name|Description|Info|Cost|How To Unlock|
 |:---|:---|:---|:---|:---|
 |name|"short funky description"|actual info|?MB|default or some other way?|
-|Moth Backpack|"A backpack with moth wings. Has an oddly familiar color scheme. Smells like grass and many, many baked cookies."| Increases ATK drastically, and increases Speed| 90 MB |After unlocking Mothy's area|
+|Moth Backpack|"A backpack with moth wings. Has an oddly familiar color scheme. Smells like grass and many, many baked cookies."| Increases ATK drastically, and increases Speed, but decreases DEF (decrease capped at 1 DEF) | 90 MB |After unlocking Mothy's area|
 |||||
 
 ### one time use
