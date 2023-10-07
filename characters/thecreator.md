@@ -1,5 +1,5 @@
 
-*An odd entity that can take the form of anyone it pleases (as it claims) that belongs to the Kaza Protection Squad. A2rae constantly brainstorms ideas for whatever new project they are working on whenever they can, even in battle. For this time, they decided to take on a rather simplified form to distinguish themself. Also calls themself “the Creator” for some reason.*
+> *An odd entity that can take the form of anyone it pleases (as it claims) that belongs to the Kaza Protection Squad. A2rae constantly brainstorms ideas for whatever new project they are working on whenever they can, even in battle. For this time, they decided to take on a rather simplified form to distinguish themself. Also calls themself “the Creator” for some reason.*
 
 ## Combat:
 
@@ -64,4 +64,6 @@ Disables self for a select amount of turns in exchange for a multiplier for self
 
 ### Other notes:
 
-They definetely have some motor movement impairments...but for what reason?
+- They definetely have some motor movement impairments...but for what reason?
+- They refer to the world as a "story" almost exclusively, which confuses everyone.
+- Rants about things no one understands at the most random of times.
