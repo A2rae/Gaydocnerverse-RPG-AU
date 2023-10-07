@@ -5,7 +5,7 @@ usually useful! each character can equip (number) item(s) on them
 (are items and equipable the same?)
 
 ## Shop
-### equipable
+### equippable
 |Name|Description|Info|Cost|How To Unlock|
 |:---|:---|:---|:---|:---|
 |name|"short funky description"|actual info|?MB|default or some other way?|
@@ -19,7 +19,7 @@ usually useful! each character can equip (number) item(s) on them
 |||||
 
 ## insert other way to get items
-### equipable
+### equippable
 |Name|Description|Info|How To Unlock|
 |:---|:---|:---|:---
 |name|"short funky description"|actual info|default or some other way?|
