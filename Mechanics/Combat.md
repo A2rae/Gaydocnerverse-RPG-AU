@@ -2,9 +2,11 @@
 > under construction
 
 ## Party/Team
-(needs cleanup on wording)
-you can choose 5 characters to be on your team, can be changed whenever outside combat
-each character usually have 3 abilities and a special
+a team/party consists of 5 [CHARACTERS](../characters)! you can change who is on your team (whenever outside combat? at a specific place?)
+you will be using this team to deal with combat and exploring the overworld
+
+each character is unique in how they contribute to the team so choose whichever team combinations fit you the most!
+
 > btw do we have a standard attack button that doesnt require `kB`? -toast
 
 ---
@@ -21,15 +23,13 @@ if the kB bar is 100% full, 60 MB is recieved
 
 ---
 ## Stats
-> do we need this? just delete if everyhting is obvious enough
-
 your STATS determine how strong you are, of course your STATS get stronger each time you level up.  some [ITEMS](./Items.md) can also boost certain stats when equiped
 
 ### Overview
-**HP:** health points. hit 0 and that character dies(?)  
-**ATK:** attack power. how many points you deal to enemies  
-**DEF:** defence. how do u explain defence help  
-**SPD:** speed. determines which character goes first  
+**HP:** health points! hit 0 and that character dies(?)  
+**ATK:** attack power! the standard STAT that determines how strong your attacks are  
+**DEF:** defence! how do u explain defence help  
+**SPD:** speed! characters with higher speed than others move first and have a chance of evading some attacks  
 
 ### Standard Base Stats
 HP: 100-200  
