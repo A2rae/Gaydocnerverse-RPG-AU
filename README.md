@@ -1,6 +1,6 @@
 # Gaydocnerverse-RPG-AU
 
-> *" A long, long time ago, a world, filled with lively, creative character designs fell into the grasp of its enemy, Badly Generated AI Characters, along with its kingdom. But you, the almighty Heros, the Chosen Ones from the stars, will stop the terror of AI Art and take back our world from the six-fingered hands of their king with courage, light, and the power of friendship in your hearts, and bring an era of peace and prosperity to the lands... "*
+> *" A long, long time ago, a world, filled with lively, creative character designs fell into the grasp of its enemy, Badly Generated AI Characters, along with its kingdom. But you, the almighty Heros, the Chosen Ones from the stars, will stop the terror of AI Art and take back our world from the six-fingered hands of their king with courage, light, and the power of friendship in their hearts, and bring an era of peace and prosperity to the lands... "*
 > 
 > *"...Hm, I think I overdid the grandiosity, maybe we should try again?"*
 
