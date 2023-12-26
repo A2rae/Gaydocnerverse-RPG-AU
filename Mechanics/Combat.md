@@ -42,7 +42,7 @@ SPD: 1-10
 ### Status Effects
 |Name|Description|
 |:---|:---|
-|???|...|
+|Heal Lock|(need better name) nullifies all healing directed to the affected character|
 |???|...|
 |???|...|
 
