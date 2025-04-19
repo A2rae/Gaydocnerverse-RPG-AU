@@ -6,7 +6,7 @@
 
 **How to Unlock:** ?  
 
-**Overworld Passive:** for every 5 steps taken in the overworld, heal 1 hp for the entire team  
+**Overworld Passive:** walks slower than other party members.  if he goes offscreen, he appears back futher to where the party is going, waiting for the party and eventually walking with them again  
 **Weapon:** ?
 
 - HP: 180
@@ -16,9 +16,8 @@
 
 ___
 ### Skills:
-
-**MUNCH** `ULTIMATE` `Allies` `kB:60`  
-heals all other party members to full health.  in turn, deal damage to this character equal to 25% of the party members' total recieved healing  
+**LATE AS FUCK** `Self` `Passive`  
+this character have a 48% chance to only appear in the battle after 1-3 turns has passed and a 2% chance to appear after 5 turns has passed
 
 **HELPING HAND** `1 Ally` `kB:30`  
 heals a party member 40 HP  
@@ -27,19 +26,26 @@ heals a party member 40 HP
 clears 1 random bad status condition dealt to this character.  if there are none, heal 20 HP  
 
 **LEECH** `1 Any` `kB:20`  
-deals ATK damage to an enemy or ally and recovers 80% damage recieved of HP.  ignores heal lock  
+deals ATK damage to an enemy or ally and recovers 80% damage recieved of HP.  ignores Locked In  
 
 ___
 ### Level Up Skill Progression:
 
-**MUNCH**, **HELPING HAND**, **SELF CARE**, and **LEECH** are all unlocked by default
+**LATE AS FUCK**, **HELPING HAND**, **SELF CARE**, and **LEECH** are all unlocked by default
+
+**MUNCH** `Learnable` `Allies` `kB:50`  
+heals all other party members to full health.  in turn, deal damage to this character equal to 25% of the party members' total recieved healing
+$\qquad$ Unlocked after LV ?
 
 **LEECH ☆☆** `Upgrade`  
 recovers the same amount of HP as damage recieved by target  
 $\qquad$ Unlocked after LV ?  
 
+**REVIVE** `Learnable` `1 Ally` `kB:40`  
+revives an ally for 5 turns with negative HP, the character must have >0 HP before 5 turns or else it dies.  the character can attack and be attacked and automatically dies if they reach -50 HP
+
 **MUNCH ☆☆** `Upgrade`  
-double all healing done by this character, locks healing for this character, and changes SELF CARE into SELF ABANDON  
+applies Locked In to this character. changes SELF CARE into SELF ABANDON  
 $\qquad$ Unlocked after LV ?  
 
 **SELF ABANDON** `Hidden Skill`  
@@ -54,10 +60,10 @@ $\qquad$ Unlocked after LV ?
 heals a party member 60 hp
 
 **???** `Learnable` `1 Ally` `kB:20`  
-regen 10 hp each turn for an ally, skill ends in 8 turns. locks healing to the ally when this skill is in use  
+regen 10 hp each turn for an ally, skill ends in 8 turns. Apply Locked In to the ally when this skill is in use (no outside healing, only by this skill)  
 $\qquad$ Unlocked after LV ?
 
-**SELF CARE ☆☆** `Upgrade`  
+**SELF ABANDON ☆☆** `Upgrade`  
 clears a random bad status condition and heal 30 HP  
 $\qquad$ Unlocked after LV ?  
 
