@@ -1,8 +1,8 @@
 > [!WARNING]
 > under construction
 
-## Party/Team
-a team/party consists of 5 [CHARACTERS](../characters)! you can change who is on your team (whenever outside combat? at a specific place?)
+## Party
+a team/party consists of 5 [CHARACTERS](../characters)! you can change who is on your party (whenever outside combat? at a specific place?)
 you will be using this team to deal with combat and exploring the overworld
 
 each character is unique in how they contribute to the team so choose whichever team combinations fit you the most!
@@ -42,9 +42,14 @@ SPD: 1-10
 ### Status Effects
 |Name|Description|
 |:---|:---|
-|Heal Lock|(need better name) nullifies all healing directed to the affected character|
-|???|...|
-|???|...|
+|Art Block|Prevents character from using any moves requiring kB|
+|Inspired|Raises the amount of kB gained when attacking or being attacked.  If the status goes for 5 or more turns, inflicts Burnout for 1 turn (+1 turn the longer the character gets inspired)|
+|Burnout|Character skips the turn and their sprite turns into a 1 minute challenge version of itself with fire in the background|
+|Compressed|Compresses the character into a smaller canvas.  halved kB cost and their sprite gets compressed into pixels|
+|Enlarge|Enlarges the character into a bigger canvas. +50% kB cost but more effective moves|
+|Transparent|Character turns invinsible, enemy has a 50% chance of landing attacks.  goes away after an attack lands or if the user does a move.  if the move is an attack, defense of target is halved when calculating damage|
+|Locked In|All moves are more effective, this character cannot be healed|
+
 
 ### Field Effects
 |Name|Description|
@@ -52,3 +57,14 @@ SPD: 1-10
 |???|...|
 |???|...|
 |???|...|
+
+---
+## General Skills
+skills most characters can learn by buying or other methods
+|Name|Description|Cost|How to Get|
+|:---|:---|---|:---|
+|Study|Skips one turn to gains a random move from an enemy that lasts until the battle ends|???kB|???|
+|Lurk|Goes TRANSPARENT for 5 turns, as each turn progress, heals 5 HP to self.|???kB|???|
+|Inspire|Makes a character INSPIRED for 5 turns|???kB|???|
+|Calm Down|Heals self for 10 HP and 80% chance to remove all status effects|???kB|???|
+|||???kB|???|
