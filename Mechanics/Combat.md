@@ -7,8 +7,6 @@ you will be using this team to deal with combat and exploring the overworld
 
 each character is unique in how they contribute to the team so choose whichever team combinations fit you the most!
 
-> btw do we have a standard attack button that doesnt require `kB`? -toast
-
 ---
 ## kB and MB (mana and currency system)
 every ability needs a certain amount of `kB` to be performed  
@@ -38,17 +36,22 @@ DEF: 20-50
 SPD: 1-10  
 
 ---
+## Battle
+the system works similarly to traditional RPGs, each character can defend, use abilities, or use items in their turn  
+the standard attack button is replaced with defend, which generates 10 kB and blocks incoming damage for 25%
+
+---
 ## Effects
 ### Status Effects
 |Name|Description|
 |:---|:---|
 |Art Block|Prevents character from using any moves requiring kB|
 |Inspired|Raises the amount of kB gained when attacking or being attacked.  If the status goes for 5 or more turns, inflicts Burnout for 1 turn (+1 turn the longer the character gets inspired)|
-|Burnout|Character skips the turn and their sprite turns into a 1 minute challenge version of itself with fire in the background|
+|Burnout|Character skips the turn and their sprite turns into a 30 seconds challenge version of itself with fire in the background|
 |Compressed|Compresses the character into a smaller canvas.  halved kB cost and their sprite gets compressed into pixels|
-|Enlarge|Enlarges the character into a bigger canvas. +50% kB cost but more effective moves|
-|Transparent|Character turns invinsible, enemy has a 50% chance of landing attacks.  goes away after an attack lands or if the user does a move.  if the move is an attack, defense of target is halved when calculating damage|
-|Locked In|All moves are more effective, this character cannot be healed|
+|Enlarge|Enlarges the character into a bigger canvas. +50% kB cost but 50% more effective moves|
+|Transparent|Character turns invinsible, enemy has a 50% chance of landing attacks.  goes away after an attack lands or if the user does a move directed at an ally or enemy.  if the move is an attack, defense of target is halved when calculating damage|
+|Locked In|All moves are 50% more effective, this character cannot be healed|
 
 
 ### Field Effects
