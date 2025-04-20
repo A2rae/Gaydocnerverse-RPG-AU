@@ -19,10 +19,10 @@ ___
 **LATE AS FUCK** `Self` `Passive`  
 this character have a 48% chance to only appear in the battle after 1-3 turns has passed and a 2% chance to appear after 5 turns has passed
 
-**HELPING HAND** `1 Ally` `kB:30`  
+**HELPING HAND** `1 Ally` `kB:25`  
 heals a party member 40 HP  
 
-**SELF CARE** `Self` `kB:20`  
+**SELF CARE** `Self` `kB:15`  
 clears 1 random bad status condition dealt to this character.  if there are none, heal 20 HP  
 
 **LEECH** `1 Any` `kB:20`  
@@ -33,7 +33,7 @@ ___
 
 **LATE AS FUCK**, **HELPING HAND**, **SELF CARE**, and **LEECH** are all unlocked by default
 
-**MUNCH** `Learnable` `Allies` `kB:50`  
+**MUNCH** `Learnable` `Allies` `kB:40`  
 heals all other party members to full health.  in turn, deal damage to this character equal to 25% of the party members' total recieved healing
 $\qquad$ Unlocked after LV ?
 
@@ -41,7 +41,7 @@ $\qquad$ Unlocked after LV ?
 recovers the same amount of HP as damage recieved by target  
 $\qquad$ Unlocked after LV ?  
 
-**REVIVE** `Learnable` `1 Ally` `kB:40`  
+**REVIVE** `Learnable` `1 Ally` `kB:30`  
 revives an ally for 5 turns with negative HP, the character must have >0 HP before 5 turns or else it dies.  the character can attack and be attacked and automatically dies if they reach -50 HP
 
 **MUNCH ☆☆** `Upgrade`  
