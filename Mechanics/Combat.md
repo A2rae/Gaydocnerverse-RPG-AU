@@ -49,7 +49,7 @@ the standard attack button is replaced with defend, which generates 10 kB and bl
 |Inspired|Raises the amount of kB gained when attacking or being attacked.  If the status goes for 5 or more turns, inflicts Burnout for 1 turn (+1 turn the longer the character gets inspired)|
 |Burnout|Character skips the turn and their sprite turns into a 30 seconds challenge version of itself with fire in the background|
 |Compressed|Compresses the character into a smaller canvas.  halved kB cost and their sprite gets compressed into pixels|
-|Enlarge|Enlarges the character into a bigger canvas. +50% kB cost but 50% more effective moves|
+|Upscaled|Upscales the character into a bigger canvas. +50% kB cost but 50% more effective moves|
 |Transparent|Character turns invinsible, enemy has a 50% chance of landing attacks.  goes away after an attack lands or if the user does a move directed at an ally or enemy.  if the move is an attack, defense of target is halved when calculating damage|
 |Locked In|All moves are 50% more effective, this character cannot be healed|
 
